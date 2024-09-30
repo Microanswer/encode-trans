@@ -4,6 +4,10 @@
 
 ![img](./preview.jpg)
 
+### 在线体验
+
+→ [点击跳转](https://test.microanswer.cn/encodetrans.html) ←
+
 ### 0、快速
 
 ```cmd
